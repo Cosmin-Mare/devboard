@@ -2,6 +2,9 @@
 
 A small, Pico-style development board built around the **RP2040**, designed in **KiCad 10**. USB-C, 3.3 V LDO, 2 MB QSPI flash, a BOOTSEL button, SWD header, and every GPIO broken out to two 20-pin 2.54 mm headers. Made to be ordered fully assembled from JLCPCB.
 
+<img width="430" height="693" alt="Screenshot 2026-10-06 at 7 39 09 PM" src="https://github.com/user-attachments/assets/d1d044a3-cbfd-4cc0-aff4-fda08f90d25e" />
+
+
 | | |
 |---|---|
 | MCU | Raspberry Pi RP2040 (QFN-56), 12 MHz crystal |
