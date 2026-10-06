@@ -1,0 +1,17 @@
+Designators,Qty,Value,Footprint,Manufacturer,MPN,LCSC,JLCPCB lib,Assembled by JLCPCB
+"C1,C10",2,1uF,C_0402_1005Metric,Samsung Electro-Mechanics,CL05A105KA5NQNC,C52923,Basic,Yes
+"C2,C3,C4,C5,C6,C7,C8,C9,C11,C12,C17",11,0.1uF,C_0402_1005Metric,Samsung Electro-Mechanics,CL05B104KO5NNNC,C1525,Basic,Yes
+"C13,C14",2,10uF,C_0603_1608Metric,Samsung Electro-Mechanics,CL10A106KP8NNNC,C19702,Basic,Yes
+"C15,C16",2,33pF,C_0402_1005Metric,FH (Guangdong Fenghua Advanced Tech),0402CG330J500NT,C1562,Basic,Yes
+J1,1,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,Korean Hroparts Elec,TYPE-C-31-M-12,C165948,Extended,Yes
+"J2,J3",2,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,BOOMELE(Boom Precision Elec),2.54-1*20P直针,C50981,Extended,No (hand-solder)
+J4,1,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,BOOMELE(Boom Precision Elec),1.27-1*3P针,C24980,Extended,No (hand-solder)
+"R1,R2",2,5.1k,R_0402_1005Metric,UNI-ROYAL(Uniroyal Elec),0402WGF5101TCE,C25905,Basic,Yes
+"R3,R4",2,27,R_0402_1005Metric,UNI-ROYAL(Uniroyal Elec),0402WGF270JTCE,C25100,Extended,Yes
+"R5,R7",2,1k,R_0402_1005Metric,UNI-ROYAL(Uniroyal Elec),0402WGF1001TCE,C11702,Basic,Yes
+R6,1,10k,R_0402_1005Metric,UNI-ROYAL(Uniroyal Elec),0402WGF1002TCE,C25744,Basic,Yes
+SW1,1,SW_Push,SW_Push_SPST_NO_Alps_SKRK,XUNPU,TS-1088-AR02016,C720477,Basic,Yes
+U1,1,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,Raspberry Pi,RP2040,C2040,Extended,Yes
+U2,1,MCP1700x-330xxTT,SOT-23,Microchip Tech,MCP1700T-3302E/TT,C39051,Extended,Yes
+U3,1,W25Q16JVZPIQTR,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,Winbond Elec,W25Q16JVUXIQ,C2843335,Extended,Yes
+Y1,1,12MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,YXC Crystal Oscillators,X322512MSB4SI,C9002,Basic,Yes
