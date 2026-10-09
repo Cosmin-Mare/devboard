@@ -50,6 +50,8 @@ Open `hardware/kicad/devboard.kicad_pro` in KiCad 10. After changes, re-export G
 
 ## License
 
-MIT for documentation and files in this repo unless you decide otherwise – see [LICENSE](LICENSE). (Open-hardware licences such as CERN-OHL-P-2.0 are a common alternative for hardware; swap it in if you prefer.)
+MIT. See [LICENSE](LICENSE).
 
-Author: Cosmin Tudor Mare
+---
+
+Designed by [Cosmin Mare](https://mare-cosmin.ro/en/).
